@@ -22,7 +22,7 @@ This project explores screen time patterns among Indian children using PySpark a
 - Pandas, Matplotlib, Seaborn 
 
 ## 📁 Folder Structure
--/notebook - Contains the analysis notebook
--/data - Sample data
--/results - Visualization
+- /notebook : Contains the analysis notebook
+- /data : Sample data
+- /results : Visualization
 
